@@ -1,7 +1,7 @@
 
-<p>欢迎访问九游娱乐网址入口线路<a href="https://jiuyoucn.net">jiuyoucn.net</a>！九游APP集合了市场上最热门的游戏种类，提供丰富多样的选择，绝对能满足您的游戏需求！</p>
+<p>欢迎访问九游娱乐网址入口线路<a href="http://9y-yule.com">http://9y-yule.com</a>！九游APP集合了市场上最热门的游戏种类，提供丰富多样的选择，绝对能满足您的游戏需求！</p>
 
-<p><a href="https://jiuyou.la"><img src="/apple-touch-icon.png" alt="九游娱乐APP" /></a></p>
+<p><a href="http://9y-yule.com"></a></p>
 
 <h2 id="网址入口">网址入口</h2>
 
@@ -27,8 +27,6 @@
   <li>云达不来梅</li>
 </ul>
 
-<p><img src="/NineGame_WerderBremen.jpg" alt="九游赞助合作伙伴云达不来梅" /></p>
-
 <h2 id="联系我们">联系我们</h2>
 
 <p>有任何问题或需要帮助？请随时联系我们的客服团队。我们24/7为您提供支持。</p>
@@ -43,9 +41,4 @@
 <p>感谢您选择九游娱乐，愿您在我们的平台上游戏愉快！</p>
 
 
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+    
