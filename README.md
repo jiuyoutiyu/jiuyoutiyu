@@ -1,5 +1,5 @@
 
-<p>欢迎访问九游娱乐网址入口线路<a href="http://9y-yule.com">http://9y-yule.com</a>！九游APP集合了市场上最热门的游戏种类，提供丰富多样的选择，绝对能满足您的游戏需求！</p>
+<p>欢迎访问九游娱乐网址入口线路<a href="http://9y-yule.com">9y-yule.com</a>！九游APP集合了市场上最热门的游戏种类，提供丰富多样的选择，绝对能满足您的游戏需求！</p>
 
 <p><a href="http://9y-yule.com"><img src="/mazda.png" alt="九游娱乐APP" /></a></p>
 
