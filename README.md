@@ -1,49 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>九游娱乐 - 9y-yule.com 官方网址 | 九游娱乐</title>
-<meta name="generator" content="Jekyll v3.9.5" />
-<meta property="og:title" content="九游娱乐 - 9y-yule.com 官方网址" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="九游娱乐网址" />
-<meta property="og:description" content="九游娱乐网址" />
-<link rel="canonical" href="https://jiuyouyule.github.io/" />
-<meta property="og:url" content="https://jiuyouyule.github.io/" />
-<meta property="og:site_name" content="九游娱乐" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="九游娱乐 - 9y-yule.com 官方网址" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"九游娱乐网址","headline":"九游娱乐 - 9y-yule.com 官方网址","name":"九游娱乐","url":"https://jiuyouyule.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=1034634f6b11cdbf1753e856137c689562ed4447">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://jiuyouyule.github.io/">九游娱乐</a></h1>
-      
-
-      <h1 id="九游娱乐---9y-yulecom-官方网址">九游娱乐 - 9y-yule.com 官方网址</h1>
-
 <p>欢迎访问九游娱乐网址入口线路<a href="https://jiuyoucn.net">jiuyoucn.net</a>！九游APP集合了市场上最热门的游戏种类，提供丰富多样的选择，绝对能满足您的游戏需求！</p>
 
 <p><a href="https://jiuyou.la"><img src="/apple-touch-icon.png" alt="九游娱乐APP" /></a></p>
